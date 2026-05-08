@@ -1,2 +1,2 @@
-# bug-free
-bug-free spoon
+#  без жуков
+ложка без жуков
